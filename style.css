@@ -171,15 +171,15 @@ h1:hover span {
 
   h2,
   p {
-    font-size: 10px;
+    font-size: 15px;
   }
 
   .left {
-    height: 22vw;
+    height: 200px;
   }
 
   .right {
-    height: 22vw;
+    height: 200px;
   }
 }
 
